@@ -8,11 +8,11 @@ Ich merke immer mehr, dass ich Spaß an der Webentwicklung habe und bin in meine
 Erfahrung in einer Vielzahl von Programmiersprachen, Auszeichnungssprachen, Scriptsprachen und Tools, darunter HTML, PHP, Python, Flask, TailwindCSS, SQL.
 
 </br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cherzlieb&theme=monokai" alt="github-profile-trophy" />
-</p>
 
 <!--
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cherzlieb&theme=onedark" alt="github-profile-trophy" />
+</p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/cherzlieb/count.svg" />
@@ -57,7 +57,7 @@ Erfahrung in einer Vielzahl von Programmiersprachen, Auszeichnungssprachen, Scri
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
     </a>
     <a href="https://www.lChristophx.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lChristophx-colored.svg" width="36" height="36" alt="LChristophx" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="LChristophx" />
     </a>
   </div>
 </p>
