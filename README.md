@@ -1,7 +1,7 @@
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
-# Hallo, ich bin Inu! 👋
+# Hallo, ich bin Christoph! 👋
 
 ## Über mich
 Ich merke immer mehr, dass ich Spaß an der Webentwicklung habe und bin in meiner Freizeit je nach Möglichkeit, mich dort am Weiterbilden und sammelte 
@@ -9,17 +9,17 @@ Erfahrung in einer Vielzahl von Programmiersprachen, Auszeichnungssprachen, Scri
 
 </br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inuham&theme=monokai" alt="github-profile-trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cherzlieb&theme=monokai" alt="github-profile-trophy" />
 </p>
 
 <!--
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/inuham/count.svg" />
+  <img src="https://profile-counter.glitch.me/cherzlieb/count.svg" />
 </p>
 
 <p align="center"> 
-  <img src="https://img.shields.io/github/followers/inuham?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://img.shields.io/github/followers/cherzlieb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </p>
 -->
 
@@ -56,8 +56,8 @@ Erfahrung in einer Vielzahl von Programmiersprachen, Auszeichnungssprachen, Scri
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
     </a>
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+    <a href="https://www.lChristophx.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lChristophx-colored.svg" width="36" height="36" alt="LChristophx" />
     </a>
   </div>
 </p>
